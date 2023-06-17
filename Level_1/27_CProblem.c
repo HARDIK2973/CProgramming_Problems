@@ -1,4 +1,9 @@
-
+/*
+        Question:  Get a three-digit number from user. If the sum of the digits is 10 then 
+                    print “Success”, otherwise print “Failure”.
+                    
+        Example:     Input: 956 - Output Failure.    Input: 127 - Output:  Success.
+*/
  #include <stdio.h>
 
 int main()
