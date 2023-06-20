@@ -1,4 +1,8 @@
-
+/*
+        Question:    Write a program print total number of single digit Prime numbers
+         
+        Answer:          4
+*/
 
 #include <stdio.h>
 

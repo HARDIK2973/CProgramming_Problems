@@ -1,4 +1,8 @@
-
+/*
+        Question:    Write a loop program to print sum of 6 to 1. 
+        
+        Answer:          21
+*/
 #include <stdio.h>
 
 int main()

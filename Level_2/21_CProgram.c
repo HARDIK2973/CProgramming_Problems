@@ -1,4 +1,10 @@
-
+/*
+        Question:  Write a program get number from user print the total number digits 
+                    which are odd in the number.
+                    
+        Answer:          Input : 12345678   -  Output : 4
+                         Input : 987531   - Output  : 5
+*/
  #include <stdio.h>
 
 int main()

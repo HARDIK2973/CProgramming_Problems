@@ -1,4 +1,10 @@
-
+/*
+        Question:  Write a program get number from user print the total number of two-digit
+                    perfect square numbers in the number.
+                    
+        Answer:          Input: 163496481  - Output: 4
+                         Input: 364925   - Output: 4
+*/
  #include <stdio.h>
  #include <math.h>
 

@@ -1,4 +1,10 @@
 //(was little hard)
+/*
+        Question:  Write a program get number from user print the total number of two-digit
+                    odd numbers in the number.
+        Answer:          Input: 12345678   - Output: 3
+                        Input: 987531   - Output: 4
+*/
 #include <stdio.h>
 #include <math.h>
 

@@ -1,4 +1,12 @@
-
+/*
+        Question:    Write a loop program to print odd numbers 1 to 9.
+        
+Answer:          1
+3
+5
+7
+9
+*/
 
 #include <stdio.h>
 

@@ -1,3 +1,10 @@
+/*
+        Question:  Write a program get number from user print the total number of single-
+                    digit prime numbers in the number.
+                    
+        Answer:          Input: 163496481  - Output: 1
+                         Input: 364925   - Output: 3
+*/
 #include <stdio.h>
 
 int main()

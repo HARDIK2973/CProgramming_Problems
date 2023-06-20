@@ -1,4 +1,9 @@
-
+/*
+        Question:  Write a loop program to print the sum of two-digit odd numbers, whose
+                    ten’s digit is 7.
+                    
+        Answer:          375
+*/
  #include <stdio.h>
 
 int main()
