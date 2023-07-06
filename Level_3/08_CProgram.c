@@ -1,7 +1,7 @@
 /*
         Question:  Get a number from user and check whether the digits are in
                     ascending order.
-                    
+
         Example:     Input: 1234 Output: Yes. Input: 5687 Output: No
 */
 
@@ -22,13 +22,15 @@ int main()
 }
 int check_assending(int no)
 {
-    int result,dummy;
+    int result, dummy;
     // Your Program Here
     int previousDigit = 10; // Initialize with a value greater than any digit (0-9)
 
-    while (no > 0) {
+    while (no > 0)
+    {
         int currentDigit = no % 10;
-        if (currentDigit > previousDigit) {
+        if (currentDigit > previousDigit)
+        {
             return 0; // Digits are not in ascending order
         }
         previousDigit = currentDigit;
